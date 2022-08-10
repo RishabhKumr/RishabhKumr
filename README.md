@@ -13,7 +13,7 @@ I'm also an Ab intio developer who can manage/transform your data using Abintio 
 <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.jenkins.io/images/logos/jenkins/256.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/kafka.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/kafka.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS77jd7FiZw0OQZzfOmS-SySATSlCZ0wcPJ1MHH8h8TqQ&s" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://media.proprofs.com/images/QM/user_images/2170919/1519297488.jpg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/react.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">

@@ -43,5 +43,5 @@ I'm also an Ab intio developer who can manage/transform your data using Abintio 
 <br />
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=RishabhKumr.RishabhKumr)
 

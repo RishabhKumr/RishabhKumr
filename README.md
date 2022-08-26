@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 I'm a Full stack developer working on Java microservices and Angular JS/React JS.
-I'm also an Ab intio developer who can manage/transform your data using Abintio ETL tool.
+I'm also having expereince in ETL Development to manage/transform data using AbInitio ETL tool.
 
 - 🔭 I’m currently working on Java Microservices and RESTful APIs
-- 🌱 I’m currently learning Abinitio
+- 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on Microservices
 
 ## 🧰 Languages and Tools:

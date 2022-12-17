@@ -44,7 +44,7 @@ I'm also having expereince in ETL Development to manage/transform data using AbI
 <br />
 
 ## 📈 Microservices
-<img src="/RishabhKumr/image001-1.png" alt="microservices Diagram" />
+<img src="image001-1.png" alt="microservices Diagram" />
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=RishabhKumr.RishabhKumr)

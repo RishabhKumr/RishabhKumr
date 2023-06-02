@@ -17,6 +17,7 @@ I'm also having expereince in ETL Development to manage/transform data using AbI
 <img src="https://media.proprofs.com/images/QM/user_images/2170919/1519297488.jpg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/react.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png" alt="Angular" height="40" style="vertical-align:top;margin:4px">
 
 <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/mysql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>

@@ -23,7 +23,6 @@ I'm also having expereince in ETL Development to manage/transform data using AbI
 </p>
 
 ## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishabhKumr&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhKumr&hide=TeX&layout=compact)
 
 ## ✉️ Find me on:
